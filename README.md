@@ -74,7 +74,7 @@ Cybersecurity is not just a field for me — it's my playground and profession.
 
 ## 📫 Connect with Me
 
-- 🔗 [LinkedIn – Omar Ahmed Abdi](https://www.linkedin.com/in/omar-ahmed-a-27795717b/)
+- 🔗 [LinkedIn – Omar Ahmed A](https://www.linkedin.com/in/omar-ahmed-a-27795717b/)
 - 📧 omahac0.4@gmail.com  
 - 🐙 [GitHub – @0ma7ac](https://github.com/0ma7ac)
 
