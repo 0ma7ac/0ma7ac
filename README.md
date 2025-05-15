@@ -10,7 +10,6 @@
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00c3ff,100:8e54e9&height=180&section=header&text=Welcome%20to%20My%20Profile!&fontColor=ffffff&fontSize=35&animation=fadeIn" alt="banner"/>
 </p>
 
-
 ---
 
 ## 🚀 About Me
@@ -41,7 +40,7 @@ Cybersecurity is not just a field for me — it's my playground and profession.
 ### 🔐 Cybersecurity & Ethical Hacking
 - 🔨 **Penetration Testing**
 - 🌐 **Web Application Security**
-- 🕵️‍♂️ **OSINT** (Open Source Intelligence)
+- 🕵️‍♂️ **OSINT (Open Source Intelligence)**
 - ⚡ **Vulnerability Assessment**
 - 🐞 **Bug Bounty Reporting**
 - 🧠 **Threat Modeling**
@@ -80,9 +79,27 @@ Cybersecurity is not just a field for me — it's my playground and profession.
 
 ---
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0ma7ac&show_icons=true&theme=radical" alt="GitHub stats"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=0ma7ac&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1800" 
+    alt="GitHub Stats" />
 </p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=0ma7ac&theme=radical&hide_border=true" 
+    alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=0ma7ac&layout=compact&theme=radical&hide_border=true" 
+    alt="Top Languages" />
+</p>
+
+---
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=White+Hacker+%7C+Bug+Bounty+Hunter;Cybersecurity+is+my+playground.;Breaking+and+Securing+Systems%F0%9F%94%91" alt="Typing SVG"/>
